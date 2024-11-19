@@ -41,20 +41,19 @@ Curiosity is an essential motive.
 ## What a Spatial / geometric problem may involve
 
 Geometric Problem solving that involves:
-•	Recognizing shapes, objects and 3d perspectives
-•	Matching object’s features from different sources
-•	Projecting/locating a feature from one source to another having different:
-o	Perspective
-o	Different orientation, scale
-o	Color
-o	Level of detail
-o	Different representations (Drawing v/s photograph v/s cartoon)
-•	Chose which perspective of the reference source to be related to which perspective of the target source(image)
-•	Planning to solve the puzzle
+* Recognizing shapes, objects and 3d perspectives
+* Matching object’s features from different sources
+* Projecting/locating a feature from one source to another having different:
+* * Perspective
+  * Different orientation, scale
+  * Color
+  * Level of detail
+* Different representations (Drawing v/s photograph v/s cartoon)
+* Chose which perspective of the reference source to be related to which perspective of the target source(image)
+* Planning to solve the puzzle
 
 
 
- 
 A living organism learns from feeling the movement.
 The Mechanic and physics of the world are learnt that way, 
  
