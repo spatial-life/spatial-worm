@@ -122,6 +122,9 @@ https://www.youtube.com/watch?v=Ejf6FwIibkE
 
 https://www.youtube.com/watch?v=Ejf6FwIibkE
 
+Digital brain/connectome:
+https://www.youtube.com/watch?v=eYS7UIUM_SQ
+
 
 
 
