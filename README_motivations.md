@@ -34,6 +34,8 @@ Agent exhibits all kinds of the priorities eventually and learns variety of the 
 
 Agent exhibits a behaviour of like and dislike and may be selective about the data it wants to learn.
 
+Does boredome creates curiosity?
+Curiosity is an essential motive.
 
 
 ## What a Spatial / geometric problem may involve
@@ -76,10 +78,9 @@ We need Different kind of representation of same thing.
 Can the continuity and the autoregressive Ness be inbuilt in the network structure itself
 
  
-Does boredome creates curiosity?
-Curiosity is an essential motive.
 
 
+## even small organisms exhibit spatial reasoning capilities.
  
 Several small organisms lower in the evolutionary chain exhibit emerging capabilities of visual reasoning. These organisms have relatively simple nervous systems but demonstrate behaviors that suggest some level of visual processing and decision-making. Here are a few examples:
 1. Planarians (Flatworms)
